@@ -1,18 +1,4 @@
-<div align="center">
-  <div>
-    <img width="500" src="media/logo.svg" alt="Web Dev Resources">
-  </div>
-  </br>
-  <h6>Web Development Resources You Ever Need</h6>
-  <p>
-    <span style="font-weight: bold"><a href="https://github.com/iamismile">Ismile Hossain</a></span>
-    </br>
-    <sub>Follow me on <a href="https://twitter.com/whoisismile">Twitter</a>, <a href="https://www.linkedin.com/in/iamismile/">LinkedIn</a>.</sub>
-  </p>
-</div>
-
 ---
-
 This is a complete web development resource you need to build your next project. More than 150+ resources are included here. Feel free to explore and use in your projects.
 
 ---
